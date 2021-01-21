@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanHakobyan?tab=repositories](https://github.com/VanHakobyan?tab=repositories)
 
-- 📝 I regulary write articles on [https://medium.com/@vanikhakobyan](https://medium.com/@vanikhakobyan)
+- 📝 I regulary write articles on [https://vanikhakobyan.medium.com/](https://vanikhakobyan.medium.com/)
 
 - 💬 Ask me about **C#,EF, ASP.NET**
 
