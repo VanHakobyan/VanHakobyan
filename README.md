@@ -27,7 +27,7 @@
 
 
 ### Blogs posts
-### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@vanikhakobyan)
+### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://vanikhakobyan.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Մարդկային ռեսուրսների կառավարումը (ՄՌԿ) հայկական իրականության մեջ կամ ո՞րն է HR-ի գործառույթը։](https://medium.com/@vanikhakobyan/%D5%B4%D5%A1%D6%80%D5%A4%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6-%D5%BC%D5%A5%D5%BD%D5%B8%D6%82%D6%80%D5%BD%D5%B6%D5%A5%D6%80%D5%AB-%D5%AF%D5%A1%D5%BC%D5%A1%D5%BE%D5%A1%D6%80%D5%B8%D6%82%D5%B4%D5%A8-%D5%B4%D5%BC%D5%AF-%D5%B0%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AB%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6-%D5%B4%D5%A5%D5%BB-%D5%AF%D5%A1%D5%B4-%D5%B8-%D6%80%D5%B6-%D5%A7-hr-%D5%AB-%D5%A3%D5%B8%D6%80%D5%AE%D5%A1%D5%BC%D5%B8%D6%82%D5%B5%D5%A9%D5%A8-ec62af7cc2f2?source=rss-7d6aaa67b72a------2)
