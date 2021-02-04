@@ -30,6 +30,7 @@
 ### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://vanikhakobyan.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [New C# 9 Features Մաս 1 (Հայերեն)](https://vanikhakobyan.medium.com/new-c-9-features-%D5%B4%D5%A1%D5%BD-1-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-19660b26e6a5)
 - [Մարդկային ռեսուրսների կառավարումը (ՄՌԿ) հայկական իրականության մեջ կամ ո՞րն է HR-ի գործառույթը։](https://medium.com/@vanikhakobyan/%D5%B4%D5%A1%D6%80%D5%A4%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6-%D5%BC%D5%A5%D5%BD%D5%B8%D6%82%D6%80%D5%BD%D5%B6%D5%A5%D6%80%D5%AB-%D5%AF%D5%A1%D5%BC%D5%A1%D5%BE%D5%A1%D6%80%D5%B8%D6%82%D5%B4%D5%A8-%D5%B4%D5%BC%D5%AF-%D5%B0%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AB%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6-%D5%B4%D5%A5%D5%BB-%D5%AF%D5%A1%D5%B4-%D5%B8-%D6%80%D5%B6-%D5%A7-hr-%D5%AB-%D5%A3%D5%B8%D6%80%D5%AE%D5%A1%D5%BC%D5%B8%D6%82%D5%B5%D5%A9%D5%A8-ec62af7cc2f2?source=rss-7d6aaa67b72a------2)
 - [Interview-ների և Talk-երի հակառակ կողմը։ HR-ի ֆենոմենը։](https://medium.com/@vanikhakobyan/interview-%D5%B6%D5%A5%D6%80%D5%AB-%D6%87-talk-%D5%A5%D6%80%D5%AB-%D5%B0%D5%A1%D5%AF%D5%A1%D5%BC%D5%A1%D5%AF-%D5%AF%D5%B8%D5%B2%D5%B4%D5%A8-hr-%D5%AB-%D6%86%D5%A5%D5%B6%D5%B8%D5%B4%D5%A5%D5%B6%D5%A8-7f9844584954?source=rss-7d6aaa67b72a------2)
 - [New C# 8 Features Մաս 2 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-2-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-6c8951bcb89b?source=rss-7d6aaa67b72a------2)
@@ -68,6 +69,8 @@
 	 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/VanHakobyan/VanHakobyan/master/Icons/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 	 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/VanHakobyan/VanHakobyan/master/Icons/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
  </p>
+
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhakobyan&show_icons=true&locale=en&layout=compact" alt="vanhakobyan" /></p>
 
