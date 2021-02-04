@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/vanikhakobyan/">
 <img src='https://github.com/VanHakobyan/VanHakobyan/blob/master/github.jpg'>
 </a>
+<hr>
 <p align="center">
 <img src='https://github.com/VanHakobyan/VanHakobyan/blob/master/GitHubQR.png'>&nbsp;&nbsp;<img src='https://github.com/VanHakobyan/VanHakobyan/blob/master/LinkedinQR.png'>
 </p>
@@ -25,6 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanikhakobyan/](https://www.linkedin.com/in/vanikhakobyan/)
 
+<hr>
 
 ### Blogs posts
 ### 📕 Latest Posts on [<img width="70px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://vanikhakobyan.medium.com/)
@@ -37,7 +39,7 @@
 - [New C# 8 Features Մաս 1 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-1-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-504d4e80e4f6?source=rss-7d6aaa67b72a------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +52,8 @@
 <a href="https://www.hackerrank.com/vanhakobyang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vanhakobyang" height="30" width="40" /></a>
 <a href="/https://medium.com/feed/@vanikhakobyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@vanikhakobyan" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> 
@@ -75,6 +79,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhakobyan&show_icons=true&locale=en&layout=compact" alt="vanhakobyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhakobyan&show_icons=true&locale=en" alt="vanhakobyan" /></p>
+
+<hr>
 
 First and foremost, I love writing code.
 
